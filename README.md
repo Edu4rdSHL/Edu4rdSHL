@@ -6,5 +6,5 @@ I'm Eduard, a young guy passionate with cibersecurity stuff and programming 🤖
 
 ### Contact
 Twitter 🐦 => [Edu4rdSHL](https://twitter.com/edu4rdshl)<br>
-Email ✉️ => edu4rdshl@protonmail.com<br>
-XMPP 💬 => edu4rdshl@conversations.im
+Email ✉️ => edu4rdshl[at]protonmail.com<br>
+XMPP 💬 => edu4rdshl[at]conversations.im
