@@ -17,6 +17,8 @@ I'm Eduard, a young guy passionate about cybersecurity stuff and programming ðŸ¤
 - [Tor Router](https://github.com/edu4rdshl/tor-router)
 - [Unimap - Scan only once per IP Address](https://github.com/edu4rdshl/unimap)
 - [Nspawn Org](https://nspawn.org)
+- [Fly To Podman - Docker to Podman migrator](https://github.com/Edu4rdSHL/fly-to-podman)
+- [Based.fish - Context-based autocompletion for the Fish shell](https://github.com/Edu4rdSHL/based.fish)
 
 ... and more open-source projects!
 
