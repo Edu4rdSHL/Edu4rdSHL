@@ -9,7 +9,7 @@ About me
   
 </h2>
 
-I'm Eduard, a guy in love with Linux, cybersecurity stuff and programming 🤖. Rust, Python, and C/C++ developer. I develop firmware sometimes too. Some of my projects are:
+I'm Eduard, a guy in love with Linux, cybersecurity stuff, and programming 🤖. Rust, Python, and C/C++ developer. I develop firmware sometimes too. Some of my projects are:
 
 - [Findomain - A subdomains recon framework, all-in-one](https://github.com/Findomain/Findomain)
 - [Rusolver - A fast DNS resolutor in Rust](https://github.com/edu4rdshl/rusolver)
